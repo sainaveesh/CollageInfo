@@ -13,6 +13,10 @@ System.out.println("nbkr");
 	public void collegeRank() {
 		// TODO Auto-generated method stub
 System.out.println("5");
+System.out.println("5");
+System.out.println("5");
+System.out.println("5");
+System.out.println("5");
 	}
 	public static void main(String[] args) {
 		College c=new College();
